@@ -140,7 +140,7 @@ img{
                 /*Медия прописываем в конце всех стилей, в противном случае он будет перебивать остальные стили. Landscape tablets and medium desktops */
                 @media screen and(min-width: 992px) and (max-width: 1199px) {
                     html {
-                        width: 100%;
+                        width: 1%;
                         height: auto;
                     }
                 }
@@ -149,7 +149,7 @@ img{
                 /* Portrait tablets and small desktops */
                 @media screen and(min-width: 768px) and (max-width: 991px) {
                     html {
-                        width: 100%;
+                        width: 1%;
                         height: auto;
                     }
                 }
@@ -157,7 +157,7 @@ img{
                 /* Landscape phones and portrait tablets */
                 @media screen and(max-width: 767px) {
                     html {
-                        width: 100%;
+                        width: 1%;
                         height: auto;
                     }
                 }
